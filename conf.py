@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'ram'
-copyright = '2018, kotiq_kosmonawt'
-author = 'kotiq_kosmonawt'
+copyright = '2018, kotiq'
+author = 'kotiq'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
